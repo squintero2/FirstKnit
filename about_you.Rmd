@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Samira Quintero"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I attended East side High School, and I did graduate. English was easier for me. I did better in English.   
 
      
 
@@ -27,7 +27,7 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
@@ -44,8 +44,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
-   
+
  
 
 
@@ -55,10 +54,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
-   
-  
-
+ 
 
 
 
@@ -69,16 +65,12 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+  
  
 
 
 
-
-
-
-  
-
-
-
-
+git config --global user.name "squintero2"
+git config --global user.email "squintero2@students.avc.edu"
+git config --global http.sslverify "false"  
+git config --global core.autocrlf true
